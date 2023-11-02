@@ -7,6 +7,5 @@ import org.springframework.context.annotation.Import;
 
 @Configuration
 @Import(JPAConfig.class)
-//@ComponentScan(basePackageClasses = )
 public class WebRootConfig {
 }
